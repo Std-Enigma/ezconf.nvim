@@ -65,7 +65,6 @@ function ezconf.setup(opts: EZConfOpts)
 ```
 
 Setup and configure EZConf
-See: [ezconf.config](file:///home/runner/work/ezconf/ezconf/./lua/ezconf/init.lua#13#0)
 
 ### which_key_queue
 
